@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-02T13:00:29.201Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="Be2K573Hz_052VoQ_Dq_" version="12.7.9" type="github">
+<mxfile host="www.draw.io" modified="2020-03-02T13:01:57.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="ws8oJNPkYULE4lKfWEee" version="12.7.9" type="github">
   <diagram id="7y0MfUL8gaNoudwSiToa" name="Page-1">
     <mxGraphModel dx="860" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
             <mxPoint x="313" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AmDCgOtVscmtRrx32xW0-11" value="&amp;lt;&amp;lt;Include&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="AmDCgOtVscmtRrx32xW0-11" value="extend" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="177" y="100" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AmDCgOtVscmtRrx32xW0-12" value="kortingen beheren" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -86,7 +86,7 @@
             <mxPoint x="241.75" y="105" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AmDCgOtVscmtRrx32xW0-70" value="&lt;div&gt;include&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="AmDCgOtVscmtRrx32xW0-18" vertex="1" connectable="0">
+        <mxCell id="AmDCgOtVscmtRrx32xW0-70" value="extend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="AmDCgOtVscmtRrx32xW0-18" vertex="1" connectable="0">
           <mxGeometry x="0.2727" relative="1" as="geometry">
             <mxPoint x="-9.07" y="-6.38" as="offset" />
           </mxGeometry>
@@ -234,14 +234,14 @@
         <mxCell id="AmDCgOtVscmtRrx32xW0-68" value="kamers inactief zetten" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="431" y="55" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AmDCgOtVscmtRrx32xW0-71" value="&lt;div&gt;include&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="1" vertex="1" connectable="0">
+        <mxCell id="AmDCgOtVscmtRrx32xW0-71" value="extend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="240.00372242183948" y="159.99817010255333" as="geometry">
-            <mxPoint x="-9.07" y="-6.38" as="offset" />
+            <mxPoint x="-13.07" y="-3.38" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AmDCgOtVscmtRrx32xW0-72" value="&lt;div&gt;include&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="1" vertex="1" connectable="0">
+        <mxCell id="AmDCgOtVscmtRrx32xW0-72" value="extend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="177.00372242183948" y="189.99817010255333" as="geometry">
-            <mxPoint x="-9.07" y="-6.38" as="offset" />
+            <mxPoint x="-5.07" y="-1.38" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AmDCgOtVscmtRrx32xW0-74" value="extend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
